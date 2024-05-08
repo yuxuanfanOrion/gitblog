@@ -2,4 +2,4 @@
 
 TODO List
 
-- [] How to construct this blog
+- [ ] How to construct this blog
